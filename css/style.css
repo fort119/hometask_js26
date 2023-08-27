@@ -1,0 +1,14 @@
+.container {
+  max-width: 1200px;
+  margin: 30px auto;
+  background: #f1f1f1;
+  padding: 30px;
+}
+
+.table {
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
